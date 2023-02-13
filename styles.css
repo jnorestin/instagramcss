@@ -1,0 +1,40 @@
+
+body{
+    background-color: gainsboro;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.left{
+    float:left;
+}
+.right{
+    float:right
+}
+.instagramPost{
+    background-color: white;
+    max-width: 450px;
+    height:auto;
+}
+.post-header{
+    width: 100%;
+    display:flex;
+    justify-content: space-between;
+    
+}
+.logo{
+    display: flex;
+}
+.Post-Image{
+width: 450px;
+height:auto;
+}
+.post-icon{
+    display: flex;
+    justify-content: space-between;
+    padding: 1rem;
+}
+.logo div p {
+    margin:0;
+}
+
